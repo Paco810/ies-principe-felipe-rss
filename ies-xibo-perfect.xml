@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+hannel>
+<title>I.E.S. PRÍNCIPE FELIPE</title>
+>https://site.educa.madrid.org/ies.principefelipe.madrid/</link>
+<description>Noticias del IES Príncipe Felipe</description>
+anguage>es-ES</language>
+astBuildDate>Sat, 18 Apr 2026 00:30:00 +0200</lastBuildDate>
+
+<item>
+<title>Olimpiadas Química Comunidad Madrid 2026</title>
+>https://site.educa.madrid.org/ies.principefelipe.madrid/olimpiadas-quimica</link>
+<description>Alumnos IES Príncipe Felipe clasificados fase autonómica Olimpiadas Química</description>
+<guid>https://site.educa.madrid.org/ies.principefelipe.madrid/?p=4738</guid>
+<pubDate>Mon, 16 Mar 2026 11:32:41 +0000</pubDate>
+</item>
+
+<item>
+<title>Eventos Bachillerato curso 25-26</title>
+>https://site.educa.madrid.org/ies.principefelipe.madrid/bachillerato</link>
+<description>Próximas actividades Bachillerato curso 2025-2026</description>
+<guid>https://site.educa.madrid.org/ies.principefelipe.madrid/?p=4500</guid>
+<pubDate>Fri, 17 Apr 2026 18:00:00 +0000</pubDate>
+</item>
+
+<item>
+<title>Últimas noticias del Instituto</title>
+>https://site.educa.madrid.org/ies.principefelipe.madrid/</link>
+<description>Información actualizada del IES Príncipe Felipe</description>
+<guid>https://site.educa.madrid.org/ies.principefelipe.madrid/?p=4739</guid>
+<pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
+</item>
+
+</channel>
+</rss>
