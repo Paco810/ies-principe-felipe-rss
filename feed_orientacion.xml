@@ -1,8 +1,19 @@
 <?xml version="1.0" ?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<rss xmlns:ns0="http://purl.org/rss/1.0/modules/content/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>feed_orientacion</title>
     <link>https://site.educa.madrid.org/</link>
     <description>feed_orientacion</description>
+    <item>
+      <title>Admisión ESO y Bachillerato 2026/27</title>
+      <link>https://site.educa.madrid.org/ies.principefelipe.madrid/index.php/2026/01/19/admision-eso-y-bachillerato-2026-27/</link>
+      <guid isPermaLink="true">https://site.educa.madrid.org/ies.principefelipe.madrid/index.php/2026/01/19/admision-eso-y-bachillerato-2026-27/</guid>
+      <pubDate>Mon, 19 Jan 2026 18:06:31 GMT</pubDate>
+      <description>¿Pensando en estudiar en nuestro centro? Ya puedes consultar en nuestra web toda la información del Proceso de admisión Jornadas de Puertas abiertas</description>
+      <ns0:encoded>¿Pensando en estudiar en nuestro centro?
+Ya puedes consultar en nuestra web toda la información del
+Proceso de admisión
+Jornadas de Puertas abiertas</ns0:encoded>
+    </item>
   </channel>
 </rss>
