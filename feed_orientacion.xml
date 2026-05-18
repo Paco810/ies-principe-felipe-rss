@@ -2,6 +2,12 @@
 <rss version="2.0">
   <channel>
     <title>feed_orientacion</title>
+    <description/>
+    <xibo_feed_type>manual</xibo_feed_type>
+    <xibo_score>0</xibo_score>
+    <xibo_slug/>
+    <xibo_title>feed_orientacion</xibo_title>
+    <xibo_categories>ORIENTACION</xibo_categories>
     <item>
       <title>Admisión ESO y Bachillerato 2026/27</title>
       <link>https://site.educa.madrid.org/ies.principefelipe.madrid/index.php/2026/01/19/admision-eso-y-bachillerato-2026-27/</link>
