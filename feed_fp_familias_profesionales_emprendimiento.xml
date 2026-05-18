@@ -2,6 +2,12 @@
 <rss version="2.0">
   <channel>
     <title>feed_fp_familias_profesionales_emprendimiento</title>
+    <description/>
+    <xibo_feed_type>manual</xibo_feed_type>
+    <xibo_score>0</xibo_score>
+    <xibo_slug/>
+    <xibo_title>feed_fp_familias_profesionales_emprendimiento</xibo_title>
+    <xibo_categories>ELECTRICIDAD,EMPRENDIMIENTO,FORMACION PROFESIONAL,FP,IMAGEN PERSONAL,IMAGEN Y SONIDO,SERVICIOS A LA COMUNIDAD</xibo_categories>
     <item>
       <title>Video promocional del aula APE (aula profesional de emprendimiento)</title>
       <link>https://site.educa.madrid.org/ies.principefelipe.madrid/index.php/2026/05/04/video-promocional-del-aula-ape-aula-profesional-de-emprendimiento/</link>
