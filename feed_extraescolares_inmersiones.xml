@@ -2,6 +2,12 @@
 <rss version="2.0">
   <channel>
     <title>feed_extraescolares_inmersiones</title>
+    <description/>
+    <xibo_feed_type>auto_recommended</xibo_feed_type>
+    <xibo_score>0.5736</xibo_score>
+    <xibo_slug>feed_extraescolares_inmersiones</xibo_slug>
+    <xibo_title>EXTRAESCOLARES + INMERSIONES</xibo_title>
+    <xibo_categories>EXTRAESCOLARES,INMERSIONES</xibo_categories>
     <item>
       <title>INMERSIÓN EN TALAMANCA DEL JARAMA</title>
       <link>https://site.educa.madrid.org/ies.principefelipe.madrid/index.php/2026/01/22/inmersion-en-talamanca-del-jarama-2/</link>
