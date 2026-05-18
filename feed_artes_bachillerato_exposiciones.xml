@@ -2,6 +2,12 @@
 <rss version="2.0">
   <channel>
     <title>feed_artes_bachillerato_exposiciones</title>
+    <description/>
+    <xibo_feed_type>auto_recommended</xibo_feed_type>
+    <xibo_score>0.4836</xibo_score>
+    <xibo_slug>feed_artes_bachillerato_exposiciones</xibo_slug>
+    <xibo_title>ARTES + BACHILLERATO + EXPOSICIONES</xibo_title>
+    <xibo_categories>ARTES,BACHILLERATO,EXPOSICIONES,MERCADILLO,SALIDAS</xibo_categories>
     <item>
       <title>Visita con el alumnado de Artes</title>
       <link>https://site.educa.madrid.org/ies.principefelipe.madrid/index.php/2026/05/13/visita-con-el-alumnado-de-artes/</link>
