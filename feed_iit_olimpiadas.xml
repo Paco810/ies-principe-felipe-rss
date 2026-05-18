@@ -2,6 +2,12 @@
 <rss version="2.0">
   <channel>
     <title>feed_iit_olimpiadas</title>
+    <description/>
+    <xibo_feed_type>auto_recommended</xibo_feed_type>
+    <xibo_score>0.5528</xibo_score>
+    <xibo_slug>feed_iit_olimpiadas</xibo_slug>
+    <xibo_title>IIT + OLIMPIADAS</xibo_title>
+    <xibo_categories>IIT,OLIMPIADAS</xibo_categories>
     <item>
       <title>Entre los diez mejores equipos de Geología de Madrid</title>
       <link>https://site.educa.madrid.org/ies.principefelipe.madrid/index.php/2026/02/24/entre-los-diez-mejores-equipos-de-geologia-de-madrid/</link>
