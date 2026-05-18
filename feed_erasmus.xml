@@ -2,6 +2,12 @@
 <rss version="2.0">
   <channel>
     <title>feed_erasmus</title>
+    <description/>
+    <xibo_feed_type>manual</xibo_feed_type>
+    <xibo_score>0</xibo_score>
+    <xibo_slug/>
+    <xibo_title>feed_erasmus</xibo_title>
+    <xibo_categories>ERASMUS,ERASMUS CONVOCATORIAS,ETWINNING,EUROPA</xibo_categories>
     <item>
       <title>El IES Príncipe Felipe en la Sesión Regional del Parlamento Europeo de Jóvenes</title>
       <link>https://site.educa.madrid.org/ies.principefelipe.madrid/index.php/2026/05/11/el-ies-principe-felipe-en-la-sesion-regional-del-parlamento-europeo-de-jovenes/</link>
