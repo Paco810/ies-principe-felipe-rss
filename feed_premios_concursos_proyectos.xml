@@ -2,6 +2,12 @@
 <rss version="2.0">
   <channel>
     <title>feed_premios_concursos_proyectos</title>
+    <description/>
+    <xibo_feed_type>manual</xibo_feed_type>
+    <xibo_score>0</xibo_score>
+    <xibo_slug/>
+    <xibo_title>feed_premios_concursos_proyectos</xibo_title>
+    <xibo_categories>CONCURSO PRIMAVERA,CONCURSOS,IIT,OLIMPIADAS,ORATORIA,PREMIOS,PROYECTOS,STEAM,STEM,TECMAA</xibo_categories>
     <item>
       <title>Taller de reptiles</title>
       <link>https://site.educa.madrid.org/ies.principefelipe.madrid/index.php/2026/04/19/taller-de-reptiles/</link>
